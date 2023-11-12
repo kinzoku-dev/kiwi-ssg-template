@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-EDITOR=vim
-HOME=home
-POSTS=blog
